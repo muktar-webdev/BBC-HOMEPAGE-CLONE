@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: Arial, Helvetica, freesans;
+background-color: whitesmoke;
+
+
+}
+#container{
+
+background-color: black;
+width: 100%;
+height: 45px;
+color: white;
+
+}
+.logo{
+
+float:left;
+padding:5px;
+margin-left: 50px;
+margin-right: 8px;
+}
+.container-section{
+
+float: left;
+border-left: 1px solid gray;
+height: 100%;
+
+}
+#signin-image{
+width: 100px;
+margin: 8px;
+float: left;
+margin-right: 70px;
+
+}
+.container-menu{
+
+font-weight: bold;
+font-size: 90%;
+padding: 15px 15px 0 15px;
+margin-left: 8px;
+margin-right: 8px;
+
+
+}
+#point-image{
+
+padding: 12px;
+margin-left: 20px;
+float: left;
+
+
+}
+
+
+#example input{
+    float: left;
+    padding: 5px;
+    margin-top:8.5px ;
+    border: 1px solid black;
+    margin-left: 17px;
+
+    
+}
+.search-button{
+    float: left;
+    padding: 14px;
+    margin-left: -39px;
+    
+}
+#container .container-section a{
+
+text-decoration: none;
+color: white;
+
+}
+#container .container-section a:hover{
+    text-decoration: underline;
+    color:purple;
+    border-radius: 10px;
+
+
+
+
+}
+.clear-div{
+
+    clear: both;
+}
+
+
+.bottom-container{
+
+background-color: #4C4C4C;width: 100%;
+height: 100px;
+color: white;
+text-align: center;
+padding: 30px;
+font-weight: normal;
+font-size: 15px;
+float: left;
+
+}
+.bottom-container a{
+
+text-decoration: none;
+color: white;
+
+}
+.link{
+margin: 60px;
+
+
+
+}
+.bottom-container a:hover{
+
+    text-decoration: underline;
+    color:white;  
+
+}
+.bottom-container p{
+    color: white;
+    margin-top: 20px;
+    font-weight: normal;
+}
+.horizontal{
+    width:80%;
+    border:white solid 1px;
+    margin: 20px auto;
+    border-bottom: none;
+    
+    
+    }
+    .word-spacing{
+        color: white;
+        margin-top: 1ss0px;
+        font-weight: normal;
+        word-spacing: 20px;
+    }
